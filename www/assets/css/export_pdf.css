@@ -1,0 +1,72 @@
+
+tr, td, select, input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#666666;
+}
+
+.caseProjets {
+	position:relative;
+	cursor:pointer;
+	padding-top:2px;
+	margin-bottom:1px;
+	margin-top:1px;
+	text-align:center;
+	font-size:8px;
+	/*height:12px;*/
+}
+
+.caseFerie {
+	padding-top:2px;
+	margin-bottom:1px;
+	margin-top:1px;
+	text-align:center;
+	font-size:8px;
+	/*width:25px;*/
+	/*height:46px;*/
+	background:#808080;
+	color:#ffffff;
+}
+
+.css_tableau {
+	background-color: #ebeff2;
+	border-color: #3DA9C9;
+	border-width: 1px;
+	border-style: solid;
+	padding: 1px;
+}
+
+.css_tableau th {
+	background-color: #3DA9C9;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	padding: 0px 0px 0px 0px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+#css_tableau th.week {
+	color:#666666;
+	background-color: #fafae0;
+}
+
+.css_tableau th div {
+	/*width:25px;*/
+}
+
+.css_tableau td.week {
+	background-color: #ffffff;
+	/*width:25px;*/
+	/*height:px;*/
+}
+
+.css_tableau th.today {
+	background-color: #F55032;
+	color: #ffffff;
+}
+
+#css_tableau td {
+	vertical-align:top;
+	/*color:#FFFFFF;*/
+}
