@@ -5,6 +5,10 @@ __pycache__/
 # C extensions
 *.so
 
+# php settings
+config.inc
+database.inc
+
 # Distribution / packaging
 .Python
 env/
